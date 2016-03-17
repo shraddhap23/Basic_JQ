@@ -1,0 +1,18 @@
+#hover {
+    padding: 5px;
+    text-align: center;
+    background-color: purple;
+    border: solid 5px;
+    height: 10px;
+    width: 200px;
+}
+
+#pull {
+    height: 200px;
+    width: 200px;
+    padding: 5px;
+    text-align: center;
+    background-color: purple;   
+    border: solid 5px;
+    display: none;
+}
